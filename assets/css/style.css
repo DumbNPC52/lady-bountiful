@@ -1,0 +1,20 @@
+/* IMPORT GOOGLE FONTS */
+
+
+/* UNIVERSAL STYLING */
+* {
+  box-sizing: border-box;
+}
+
+/* VARIABLE ROOT */
+
+
+/* GENERAL CSS */
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
